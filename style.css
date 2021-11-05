@@ -1,0 +1,56 @@
+header {
+  padding: 20px;
+  text-align: center;
+  background-color: white;
+}
+body {
+    background-color: #2ecc71;
+    font-family: 'space mono';
+}
+.score {
+    margin: 40px auto 60px;
+    width: 200px;
+    color: white;
+    font-size: 45px;
+    text-align: center;
+    padding: 15px 20px;
+    position: relative;
+}
+.badge {
+    background-color: #E25840;
+    color: white;
+    font-size: 25px;
+    padding: 2px 10px;
+}
+#user-label {
+    position: absolute;
+    top: 30px;
+    left: -90px;
+}
+
+#computer-label {
+    position: absolute;
+    top: 30px;
+    right: -70px;
+}
+img{
+    width: 200px;
+    margin-left: 10%;
+    
+}
+.img-before {
+    box-shadow: blue 0px 0px 20px 0px ;
+}
+h3 {
+    text-align: center ;
+    font-size: 40px;
+}
+div.choise {
+    display: inline-block;
+
+    padding: 20px 20px;
+}
+div.choises {
+    text-align: center;
+}
+
